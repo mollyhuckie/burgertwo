@@ -1,0 +1,28 @@
+body {
+  background: maroon;
+}
+
+.create-update-form {
+    text-align: center;
+}
+
+.create-h1 {
+    text-align: center;
+    font-size: 70px;
+}
+
+.create-img {
+    text-align: center;
+}
+
+.create-text {
+    text-align: center;
+    width: 300px;
+    height: 70px;
+    margin: 50px;
+}
+
+.button {
+    width: 200px;
+    height: 50px;
+}
